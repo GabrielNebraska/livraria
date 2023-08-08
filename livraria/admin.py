@@ -6,4 +6,3 @@ admin.site.register(Categoria)
 admin.site.register(Editora)
 
 # Register your models here.
-    
